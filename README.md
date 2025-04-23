@@ -1,4 +1,4 @@
-Hi, I’m @notorious1dev 👋
+Hi, I’m @defektonec 👋
 I’m passionate about Computer Science, Unity, and Game Development.
 Currently, I’m learning Unity, Data Structures & Algorithms.
 Feel free to reach out to me at sarjovskiy.dima@gmail.com!
